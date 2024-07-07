@@ -9,4 +9,4 @@ An end-to-end Scikit-Learn workflow
 4. evaluating a model
 5. Improve a model
 6. save and load a trained model
-7. Putting it all together! ]
+7. Putting it all together! 
