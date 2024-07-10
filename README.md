@@ -1,7 +1,7 @@
 # Scikit-learn
 This repository contains Introduction to Scikit-learn.
 
-An end-to-end Scikit-Learn workflow
+An end-to-end Scikit-Learn workflow:
 
 1. Getting the data ready
 2. choose the right estimator/algorithm for our problems
